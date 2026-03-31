@@ -1,0 +1,18 @@
+mükemmelsin 
+
+şimdi seden istediğim bu claude.ipynb içinde yaptıklarını birde basit bir şekilde yapman
+
+yani bir ders notu gibi aslında, bunuda claude_basic.ipynb içinde tut
+
+kodlar basit olsun, yeni başlayan biri konuyu anlasın diye, python sviyesi çok iyi olmayan biri için yani
+
+normalizayon nedir, one heat encoding nedir, eksik veriler varmı varsa nasıl tamamlanır, veri seti okuma ilk 5 kaydı listeleme, info ve description
+
+basit grid search ama fonksiyonla değil direk kütüphane ile
+
+parametreleri anlama, basit grafikler oluşturma, vs de olsun
+
+test train split anlat 
+kısaca basit makine öğrenmesi veri analizi ve modelleme ile modellemeye hazırlık dökümanı olacak
+
+demek istediklerimi anlamışsındır
